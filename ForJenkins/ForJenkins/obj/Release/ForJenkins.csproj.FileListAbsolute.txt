@@ -1,0 +1,6 @@
+F:\MyFirstGit\ForJenkins\ForJenkins\bin\Release\ForJenkins.exe.config
+F:\MyFirstGit\ForJenkins\ForJenkins\bin\Release\ForJenkins.exe
+F:\MyFirstGit\ForJenkins\ForJenkins\bin\Release\ForJenkins.pdb
+F:\MyFirstGit\ForJenkins\ForJenkins\obj\Release\ForJenkins.csprojResolveAssemblyReference.cache
+F:\MyFirstGit\ForJenkins\ForJenkins\obj\Release\ForJenkins.exe
+F:\MyFirstGit\ForJenkins\ForJenkins\obj\Release\ForJenkins.pdb
